@@ -1,0 +1,18 @@
+{% load static %}
+
+<!-- Your website content goes here -->
+
+<!-- Circular button to open chatbot -->
+<div class="chat-btn" onclick="toggleChat()">Chat</div>
+
+<!-- Chatbot container -->
+<div id="chat-container" class="chat-container">
+    <!-- Chat box to display conversation -->
+    <div class="chat-box" id="chat-box"></div>
+
+    <!-- User input field -->
+    <input type="text" id="user-input" placeholder="What is your question?">
+
+    <!-- Send button to submit user input -->
+    <button onclick="sendMessage()">Send</button>
+</div>
