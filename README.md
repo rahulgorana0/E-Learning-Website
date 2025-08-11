@@ -31,3 +31,10 @@ The chatbot is **powered by the ChatGPT API**, enabling intelligent and conversa
 | **Backend**  | Django |
 | **Database** | SQLite |
 | **Chatbot**  | Powered by ChatGPT API |
+
+---
+
+📷 Screenshots
+
+<img width="480" height="216.5" alt="Screenshot (614)" src="https://github.com/user-attachments/assets/7799c132-7313-453c-a27d-203fedb0d402" /><br>
+<img width="480" height="216" alt="Screenshot (615)" src="https://github.com/user-attachments/assets/b3951c6e-1733-4a70-9997-72662259d29d" />
